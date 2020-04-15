@@ -1,0 +1,16 @@
+/* Add application styles & imports to this file! */
+
+.switch {
+  display: block;
+  background-color:#f2f2f3;
+}
+
+fieldset {
+  padding-top:20px;
+}
+
+fieldset > div {
+  background-color:green;
+  display: inline-block;
+  width:100%;
+}
