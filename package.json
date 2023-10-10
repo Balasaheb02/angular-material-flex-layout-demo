@@ -8,7 +8,7 @@
     "zone.js": "0.8.26",
     "rxjs-compat": "6.2.1",
     "@angular/cdk": "6.3.3",
-    "@angular/core": "6.0.9",
+    "@angular/core": "10.2.5",
     "@angular/http": "6.0.9",
     "@angular/forms": "6.0.9",
     "@angular/common": "6.0.9",
